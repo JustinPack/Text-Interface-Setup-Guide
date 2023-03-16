@@ -12,8 +12,9 @@ If you do not have it already, download and install Visual Studio 2019 community
 
 https://my.visualstudio.com/Downloads?q=visual%20studio%202019&wt.mc_id=o~msft~vscom~older-downloads
 
+##### This is crucial.
 
-Once that's all done, reboot, "crucial step"
+Once that's all done, reboot.
 
 # Part 2 : Text Interface Setup
 
