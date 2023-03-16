@@ -8,7 +8,7 @@ During install, choose the option to only install for you, "This is very importa
 
 If you do not have it already, download and install Visual Studio 2019 community edition, during install select the C++ build utilities, indicated by the following screenshot.
 
-![C++_Build](C++.png)
+![C++_Build](replace\image.png)
 
 https://my.visualstudio.com/Downloads?q=visual%20studio%202019&wt.mc_id=o~msft~vscom~older-downloads
 
