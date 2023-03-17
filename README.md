@@ -96,7 +96,11 @@ pip install -r requirements.txt
 
 # Part 4: Model Downloads / Interface Launch
 
-To download a model already 4bit pruned you can run this command from the main folder, "text-generation-webui"
+You can grab the actual models here.
+
+https://huggingface.co/decapoda-research
+
+To download a tokenizer already 4bit pruned you can run this command from the main folder, "text-generation-webui"
 
 ```
 python download-model.py --text-only decapoda-research/llama-7b-hf
