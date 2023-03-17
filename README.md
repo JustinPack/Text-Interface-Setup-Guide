@@ -98,7 +98,7 @@ pip install -r requirements.txt
 
 You can grab the actual models here.
 
-https://huggingface.co/decapoda-research
+https://huggingface.co/maderix/llama-65b-4bit/tree/main
 
 To download a tokenizer already 4bit pruned you can run this command from the main folder, "text-generation-webui"
 
